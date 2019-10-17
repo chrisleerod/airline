@@ -1,16 +1,5 @@
 import java.util.Scanner;
 
-/* Name: Chris Rodriguez
-# Date: 10/16/2019
-# Class: CSC 1120
-# Pledge: I have neither given nor received unauthorized aid on this
-program.
-# Description: Simulates a flight portal which allows the user to look at their given flight schedule.
-# Input: The user types commands such as username and password as strings (explain
-commands)."
-# Output: The program displays the user's input while randomly assigning them a flight price, time, and return date.
-*/
-
 public class Run_Flight {
     static Flight_List list = new Flight_List();
     static Account account = new Account();
